@@ -2,34 +2,34 @@
 
 --
 
-Linux Command
+#Linux Commands
 
 #!/bin/bash
 Specifies Bash shell.
 
-echo
+#echo
 Prints text into the file.
 
-mkdir -p
+#mkdir -p
 Creates the directorY.
 
-touch
+#touch
 Creates the text file.
 
->>
+#>>
 Appends text to an existing file.
 
-cat
+#cat
 Displays THE contents to the terminal.
 
-ls -l
+#ls -l
 Shows file permissions and details.
 
-pwd
+#pwd
 Displays current working directory.
 
-date
+#date
 Shows system date and time.
 
-chmod +x
+#chmod +x
 Makes script executable.# 0430_HW_LINUXLAB_SimpleScript
