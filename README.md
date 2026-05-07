@@ -2,7 +2,7 @@
 
 --
 
-Linux CommandS
+Linux Command
 
 #!/bin/bash
 Specifies Bash shell.
