@@ -32,4 +32,4 @@ Displays current working directory.
 Shows system date and time.
 
 #chmod +x
-Makes script executable.# 0430_HW_LINUXLAB_SimpleScript
+Makes script executable.
